@@ -2,6 +2,8 @@
 
 Python controller for Eltek Flatpack2 HE 2000W power supplies via CAN bus using SLCAN adapters (macOS compatible).
 
+⚠️ ALWAYS connect DC- to CAN ground of USBCAN adapter 
+
 ## Features
 
 - Set live output voltage (43.5V - 57.4V) and current (0 - 41.7A)
